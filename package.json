@@ -1,0 +1,18 @@
+{
+  "name": "2022010127",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm install express --save"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "npm install express --save"
+  },
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
